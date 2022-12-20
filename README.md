@@ -3,15 +3,26 @@
 <h3 align="center">A passionate MERN stack developer and also opensource, javascript & REACT enthusiast🚀🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+👨‍💻 About Me :
+
+I am a MERN Stack Developer, and diving deeper into WEB3.0! .
+
+🚀 I love being creative and bring efficiency to my work. Technology fascinates me so much, I love solving problems, building an optimized solution, and being creative in any task of mine is an obsession for me. I love reading books! learning new things, communicating with people, building network.!
+
+👀 I’m an engineering student, pursuing my B.Tech with Information Technology from MITS college. Technologies like Blockchain & Web3, Data Science and ML, Fullstack development, Internet Of Things, and many more fascinates me. I also write blogs, and love communicating and interacting with people.
+
+🎓 I have skills like: Full stack Web Development! 💻 Data Structures and Algorithms 📅 Java, JavaScript &  📝 DBMS, OS, Computer Networks Node.Js, Express.Js MongoDB 📊 Problem Solving 🧠 Git & GitHub
+
+
 - 🔭 I’m currently working on [social media app to connect developers](https://social-media-varun1002.onrender.com)
 
-- 🌱 I’m currently learning **react native,socketio,typescript**
+- 🌱 I’m currently learning **React native, Socketio & Typescript**
 
 - 👯 I’m looking to collaborate on [social media app to connect developers](https://social-media-varun1002.onrender.com)
 
 - 👨‍💻 All of my projects are available at [http//potflio](http//potflio)
 
-- 💬 Ask me about **react,javascript,nodejs,mongodb.**
+- 💬 Ask me about **React, javascript, Nodejs & Mongodb.**
 
 - 📫 How to reach me **varunratnani102@gmail.com**
 
